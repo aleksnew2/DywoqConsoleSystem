@@ -4,6 +4,13 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>DywoqConsoleSystem</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>dywoq</Authors>
+    <Company>dywoq</Company>
+    <Description>Console system with settings.</Description>
+    <PackageTags>console;system;</PackageTags>
+    <RepositoryUrl>https://github.com/aleksnew2/DywoqConsoleSystem</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
